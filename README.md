@@ -1,5 +1,7 @@
 #Terminal Emulator for Android
 
+## This fork added a feature enabling floating window running the terminal
+
 Terminal Emulator for Android is a terminal emulator for communicating with the
 built-in Android shell. It emulates a reasonably large subset of Digital
 Equipment Corporation VT-100 terminal codes, so that programs like "vi", "Emacs"
